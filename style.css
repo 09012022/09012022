@@ -10,7 +10,7 @@ body {
 	  background-size: cover;
 	
 	}
-.container{
+.main{
 	display:grid;
 	gap:20px;
 	grid-template-columns: repeat( aouto-fill, minmax(200px,1fr));
