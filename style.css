@@ -31,13 +31,13 @@ hr{
 	border-radius:900px;
 	text-transform: uppercase;}
 
-.btn-success{
+.btn-primary{
 	float: right;
 	
 	
 }
 
-.btn-success: hover{
+.btn-primary: hover{
 	background-color: red;
 	border-width: 300px;
 }
